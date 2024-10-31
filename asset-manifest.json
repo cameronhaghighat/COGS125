@@ -1,16 +1,16 @@
 {
   "files": {
-    "main.css": "/react-gh-pages/static/css/main.f855e6bc.css",
-    "main.js": "/react-gh-pages/static/js/main.e0aaf797.js",
-    "static/js/453.ed3810f9.chunk.js": "/react-gh-pages/static/js/453.ed3810f9.chunk.js",
-    "static/media/logo.svg": "/react-gh-pages/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
-    "index.html": "/react-gh-pages/index.html",
-    "main.f855e6bc.css.map": "/react-gh-pages/static/css/main.f855e6bc.css.map",
-    "main.e0aaf797.js.map": "/react-gh-pages/static/js/main.e0aaf797.js.map",
-    "453.ed3810f9.chunk.js.map": "/react-gh-pages/static/js/453.ed3810f9.chunk.js.map"
+    "main.css": "/COGS125/static/css/main.f855e6bc.css",
+    "main.js": "/COGS125/static/js/main.2d156fe7.js",
+    "static/js/453.ed3810f9.chunk.js": "/COGS125/static/js/453.ed3810f9.chunk.js",
+    "static/media/logo.svg": "/COGS125/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
+    "index.html": "/COGS125/index.html",
+    "main.f855e6bc.css.map": "/COGS125/static/css/main.f855e6bc.css.map",
+    "main.2d156fe7.js.map": "/COGS125/static/js/main.2d156fe7.js.map",
+    "453.ed3810f9.chunk.js.map": "/COGS125/static/js/453.ed3810f9.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.f855e6bc.css",
-    "static/js/main.e0aaf797.js"
+    "static/js/main.2d156fe7.js"
   ]
 }
